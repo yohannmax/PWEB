@@ -1,0 +1,55 @@
+body {
+	font-family: 'Roboto Slab', serif;
+	display: flex;
+	justify-content: center;
+	background: #fbf0f0;
+	margin: 0;
+}
+
+h1 {
+	margin: 0;
+	padding: 16px;
+}
+
+h3 {
+	margin: 0;
+	padding: 30px 0px 0px 100px;
+}
+
+p {
+	padding: 20px 300px 0px 175px;
+	line-height: 35px;
+}
+
+.containerFundo {
+	width: 60%;
+	padding: 0 0 0 0;
+}
+
+.containerContent {
+  	padding: 10px;
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	height: 100%;
+	background-color: #dfd3d3;
+}
+
+.center1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.center2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+}
+
+.center3 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+}
